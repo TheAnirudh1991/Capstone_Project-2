@@ -1,0 +1,5 @@
+[
+  "test_anirudh.py::Test_Anirudh::test_admin_header_validation",
+  "test_anirudh.py::Test_Anirudh::test_forgot_password_link_validation",
+  "test_anirudh.py::Test_Anirudh::test_side_pane_menu_validation"
+]

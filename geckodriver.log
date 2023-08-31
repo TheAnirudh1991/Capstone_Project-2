@@ -1,0 +1,62 @@
+1693482420638	geckodriver	INFO	Listening on 127.0.0.1:61532
+1693482423679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61533" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aniru\\AppData\\Local\\Temp\\rust_mozprofileKVP89X"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693482424187	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693482424277	Marionette	INFO	Listening on port 61547
+WebDriver BiDi listening on ws://127.0.0.1:61533
+Read port: 61547
+1693482424451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61533/devtools/browser/8bcf0b93-a3b8-474f-ade4-b1d2551ecee1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1693482440556	Marionette	INFO	Stopped listening on port 61547
+Dynamically enable window occlusion 1
+1693482448417	geckodriver	INFO	Listening on 127.0.0.1:61596
+1693482451468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61597" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aniru\\AppData\\Local\\Temp\\rust_mozprofile2Akqdd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693482451919	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693482452079	Marionette	INFO	Listening on port 61604
+WebDriver BiDi listening on ws://127.0.0.1:61597
+Read port: 61604
+1693482452247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61597/devtools/browser/2c35d036-1032-4c56-8808-e4f594ab9f9e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1693482465331	Marionette	INFO	Stopped listening on port 61604
+Dynamically enable window occlusion 1
+1693482479636	geckodriver	INFO	Listening on 127.0.0.1:61664
+1693482482688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61665" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aniru\\AppData\\Local\\Temp\\rust_mozprofileeLfJhn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693482482917	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693482483006	Marionette	INFO	Listening on port 61675
+WebDriver BiDi listening on ws://127.0.0.1:61665
+Read port: 61675
+1693482483154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61665/devtools/browser/97abc7ae-50b7-4dc5-af52-212112f07890
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1693482494910	Marionette	INFO	Stopped listening on port 61675
+Dynamically enable window occlusion 1
